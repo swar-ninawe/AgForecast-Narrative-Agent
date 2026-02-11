@@ -1,0 +1,150 @@
+[
+    {
+        "market_state": {
+            "silver_trend": "bullish",
+            "volatility_level": "high",
+            "macro_regime": "CPI-driven",
+            "regime_explanation": "Silver is experiencing a strong bullish trend, driven by persistent inflation fears, robust industrial demand particularly from green energy, and a widening supply deficit, all reflected in significant price increases and ETF activity, despite some USD strength."
+        },
+        "dominant_narratives": [
+            {
+                "narrative_name": "Inflation Hedge",
+                "narrative_type": "macro",
+                "confidence_score": 0.85,
+                "momentum_score": 0.9,
+                "key_drivers": [
+                    "inflation fears",
+                    "macroeconomic uncertainty",
+                    "store of value"
+                ],
+                "supporting_data": {
+                    "macro": [
+                        "Consumer Price Index for All Urban Consumers (Index)",
+                        "Interest rate trend"
+                    ],
+                    "market": [
+                        "Silver spot price action"
+                    ],
+                    "social": [
+                        "Inflation fears"
+                    ]
+                },
+                "price_impact_direction": "bullish",
+                "expected_time_horizon": "medium",
+                "reasoning_summary": "Rising inflation fears are driving demand for silver as a hedge against currency devaluation, with strong market price movements and social narratives confirming this trend."
+            },
+            {
+                "narrative_name": "Industrial & Green Energy Demand",
+                "narrative_type": "demand",
+                "confidence_score": 0.88,
+                "momentum_score": 0.85,
+                "key_drivers": [
+                    "solar panel surge",
+                    "electronics demand",
+                    "green energy transition",
+                    "industrial manufacturing"
+                ],
+                "supporting_data": {
+                    "macro": [],
+                    "market": [
+                        "Silver spot price action",
+                        "ETF inflow / volume surge"
+                    ],
+                    "social": [
+                        "Solar panel surge",
+                        "GreenEnergy"
+                    ]
+                },
+                "price_impact_direction": "bullish",
+                "expected_time_horizon": "long",
+                "reasoning_summary": "Significant industrial demand, particularly from the booming solar energy sector and broader electronics industry, is providing strong and sustainable underlying support for silver prices."
+            },
+            {
+                "narrative_name": "Supply Shortage / Deficit",
+                "narrative_type": "supply",
+                "confidence_score": 0.82,
+                "momentum_score": 0.8,
+                "key_drivers": [
+                    "supply crunch",
+                    "market deficit",
+                    "mining output constraints"
+                ],
+                "supporting_data": {
+                    "macro": [],
+                    "market": [
+                        "Silver spot price action"
+                    ],
+                    "social": [
+                        "Supply crunch",
+                        "4th straight year of deficit"
+                    ]
+                },
+                "price_impact_direction": "bullish",
+                "expected_time_horizon": "medium",
+                "reasoning_summary": "A structural supply deficit for silver, highlighted by industry reports and social media chatter, is contributing to persistent upward price pressure due to unmet demand."
+            },
+            {
+                "narrative_name": "Speculative & ETF Momentum",
+                "narrative_type": "speculative",
+                "confidence_score": 0.75,
+                "momentum_score": 0.92,
+                "key_drivers": [
+                    "ETF buying",
+                    "price breakout",
+                    "positive market sentiment",
+                    "short squeeze potential"
+                ],
+                "supporting_data": {
+                    "macro": [],
+                    "market": [
+                        "Silver spot price action",
+                        "ETF inflow / volume surge"
+                    ],
+                    "social": [
+                        "ETF buying",
+                        "Silver breakout is here!"
+                    ]
+                },
+                "price_impact_direction": "bullish",
+                "expected_time_horizon": "short",
+                "reasoning_summary": "Heavy ETF buying activity and a clear price breakout indicate strong speculative interest, amplifying the current bullish trend and attracting further capital inflows."
+            }
+        ],
+        "emerging_narratives": [
+            {
+                "theme": "Silver Price Re-rating / New Normal Price Discovery",
+                "early_signals": [
+                    "Silver breakout is here!",
+                    "Could this gray metal blast through $35+ soon?",
+                    "Silver's sustained high price levels"
+                ],
+                "confidence_score": 0.65,
+                "risk_level": "medium",
+                "monitoring_priority": "high",
+                "why_it_matters": "A potential re-evaluation of silver's intrinsic value by the market could lead to a sustained, higher baseline price level, fundamentally altering its investment profile and long-term demand dynamics beyond cyclical influences."
+            }
+        ],
+        "macro_pressure_index": {
+            "cpi_pressure": 0.85,
+            "interest_rate_pressure": 0.4,
+            "recession_risk": 0.1,
+            "usd_strength_pressure": 0.6,
+            "overall_macro_stress": 0.75
+        },
+        "market_summary": {
+            "current_market_story": "Silver is experiencing a robust bullish surge, fueled by a confluence of strong inflation-hedge demand, expanding industrial usage in green technologies, and persistent supply deficits. This is further amplified by significant speculative and ETF buying activity, which is driving its price to new highs.",
+            "narrative_vs_macro_balance": "macro-driven",
+            "forward_outlook": "The immediate outlook for silver remains highly bullish, supported by structural demand and ongoing macroeconomic concerns, particularly inflation. While speculative interest is high, fundamental drivers suggest potential for continued upside, though the rapid ascent may invite some short-term profit-taking."
+        },
+        "trading_signal": {
+            "signal": "strong_buy",
+            "confidence": 0.9,
+            "reasoning": [
+                "Strong alignment of multiple bullish narratives (inflation hedge, industrial demand, supply deficit, speculative momentum)",
+                "Significant upward price action in both spot silver and SLV ETF, indicating strong buying pressure",
+                "Supportive macro environment with high CPI pressure and absence of recession risk fueling demand",
+                "High ETF volume suggesting robust institutional and retail interest, confirming market conviction"
+            ]
+        }
+    }
+]
